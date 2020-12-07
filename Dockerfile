@@ -5,4 +5,4 @@ FROM ubuntu
 LABEL maintainer="Tiffany Timbers <tiffany.timbers@gmail.com>"
 
 # print hello
-RUN echo "Hello there"
+RUN echo "Hello there - testing"
